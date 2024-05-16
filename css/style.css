@@ -1,0 +1,234 @@
+footer {
+    position: absolute;
+    width: 100%;
+    line-height: 60px;
+    background-color: #f5f5f5;
+ 
+  } 
+  .cardContainer {
+    margin-top: 10px;
+  }
+  .card {
+    margin: 0 auto;
+    place-content: center;
+  }
+  
+  
+  .h1, .h2, .h3, .h4, .h5 .h6{
+  font-family: 'Anton', sans-serif;
+  
+  }
+  
+.bold {
+    font-weight: bold;
+}
+
+.bigtext{
+    font-size: 20px;
+    color: black;
+}
+
+  .p {
+  font-family: 'Jura', sans-serif;
+  
+  }
+  
+
+.navlink{
+font-family: 'Montserrat';
+font-size: 22px;
+    color:black;
+    text-decoration: none;
+ 
+}
+
+  .customNav{
+  position:fixed;
+  width: 100%;
+  background: url("../images/transparency.png");
+  background-color: transparent !important;
+  background-size: cover;
+  z-index: 10;
+  
+  }
+  
+  .navbar-nav{
+  margin-left: auto;
+  margin-right: 0 !important;
+  
+  }
+  
+  .navbar-brand img{
+  padding-right: 15px;
+  width: 65px;
+  
+  
+  }
+  
+  .nav-item {
+  margin: 0px 15px;
+  color: black;
+  
+  }
+  
+  .dropdown-menu {
+  
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+  background-size: cover;
+  
+  }
+  
+
+  .jesse{
+    text-align: center;
+    font-style: italic;
+  
+  }
+  
+  
+  .dropdown-item:focus, .dropdown-item:hover {
+  color: #16181b;
+  text-decoration: none;
+  background:black;
+  
+  }
+  
+  .customNav a {
+  color: white !important;
+  
+  
+  }
+  
+  .navCTA {
+  font-size: 15px;
+  
+  
+  }
+
+.boop {
+    padding-bottom: 20px;
+
+  }
+  
+  .jumbotron {
+  background-image: url("../images/dogncat.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  height: calc(100vh - 25px);
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  
+  }
+  
+  .jumboCopy {
+  width: 70%;
+  min-width: 500px;
+  max-width: 700px;
+  color: white;
+  text-align: center;
+  
+  
+  }
+  
+
+.cardtext {
+
+    text-align: center;
+}
+
+
+  .beepboop{
+
+
+
+  }
+  .content {
+  padding: 24px;
+  
+  }
+  
+  .sectionHeading{
+  text-align: center;
+  font-size: 35px;
+  font-weight: 700;
+  padding-bottom: 10px;
+  
+  }
+  
+  .showsNear {
+    padding: 0px 30px 30px 30px;
+    
+    }
+
+
+    .blorp {
+        padding: 0px 30px 30px 30px;
+        
+        }
+
+
+  
+  .cardContainer{
+  text-align: center;
+  
+  }
+  
+  .valueProp {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  
+  }
+  
+  .sideAccent {
+  background: #007bff;
+  width: 15px;
+  
+  }
+  
+  .imageContainer{
+  
+  
+  }
+  
+  .imageContainer img{
+  width: 100%;
+  
+  }
+  
+  .emailContain {
+    background: url("../images/emailBG.jpg");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    height: 500px;
+  
+  }
+  
+.teehee{
+    display: flex;
+    justify-content: center;
+    
+  }
+
+  .billy{
+justify-content: space-between;
+  }
+
+
+
+  img[title="glorb"] {
+    max-width: 300px; 
+    height: auto;
+ 
+}
+
+.containeer {
+    height: 150px;
+
+}
